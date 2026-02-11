@@ -28,7 +28,7 @@ HR_ASSISTANT/
 │   ├── __pycache__/
 │   ├── agent.py          # Contains the System Prompt and tool binding logic
 │   ├── app.py            # The Gradio web interface
-│   └── tools.py          # Contains the mock DB and the new 'get_employee_id_by_name' function
+│   └── tools.py          # Contains the mock DB and the functions
 ├── venv/                 # Virtual environment folder
 ├── .env                  # Stores your GOOGLE_API_KEY
 ├── .gitignore            # Files to be ignored by Git
